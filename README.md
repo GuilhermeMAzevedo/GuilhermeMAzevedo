@@ -78,8 +78,8 @@ Sou estudante de **Ciência da Computação na Universidade de Fortaleza (UNIFOR
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMAzevedo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMAzevedo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats-theta-blush-42.vercel.app/api?username=GuilhermeMAzevedo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats-theta-blush-42.vercel.app/api/top-langs/?username=GuilhermeMAzevedo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=pt-br" />
 </p>
 
 <p align="center">
